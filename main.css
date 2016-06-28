@@ -1,5 +1,5 @@
-p {
-	font-family: "Didot";
+p, h4 {
+	font-family: "Times New Roman";
 }
 
 table{
@@ -7,5 +7,17 @@ table{
 }
 
 blockquote{
+	font-family: "Didot";
+
+}
+.block{
+	border-left: 5px solid purple;
+}
+
+footer{
+	font-family: "Didot";
+}
+
+span {
 	font-family: "Didot";
 }
